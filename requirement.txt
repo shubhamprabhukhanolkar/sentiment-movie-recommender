@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+pandas
+numpy
+beautifulsoup4
+requests
+SpeechRecognition
+pydub
+imdbpy
